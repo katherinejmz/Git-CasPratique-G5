@@ -35,13 +35,13 @@ Si vous ne souhaitez pas mettre vos noms complets dans les commits et les noms d
 
 - Chaque élève aura une Modification à faire (création, mise à jour d'un fichier).
 
-### Elève 1
+### Evlève 1 = Mariam KARAMOKO
   - Modification : Créer un fichier index.html avec du contenu HTML simple
 
-### Elève 2
+### Elève 2 = Solal DIEHDOU
   - Modification : Créer un fichier index.html avec du contenu HTML différent de l'élève 1
 
-### Elève 3
+### Elève 3 = Katherine JIMENEZ BONE
   - Faire une modification dans le fichier README.md pour remplacer son contenu par les noms des contributeurs
     - Spécifier quel élève fait quelle partie (`Elève 1 = Jane Doe`, etc.)
 
