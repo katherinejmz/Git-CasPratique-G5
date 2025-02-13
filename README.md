@@ -38,7 +38,7 @@ Si vous ne souhaitez pas mettre vos noms complets dans les commits et les noms d
 ### Evlève 1 = Mariam KARAMOKO
   - Modification : Créer un fichier index.html avec du contenu HTML simple
 
-### Elève 2 = Solal DIEHDOU
+### Elève 2 = Solal DIEDIHOU
   - Modification : Créer un fichier index.html avec du contenu HTML différent de l'élève 1
 
 ### Elève 3 = Katherine JIMENEZ BONE
